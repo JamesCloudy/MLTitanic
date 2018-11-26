@@ -15,7 +15,8 @@ Apply machine learning to the NCAA March Madness tournament to accurately predic
   - Distance teams traveled
 
 **Techniques & Tools:**
-Python to read csv files and machine learning
-Javascript/D3 for graphs/presentations
-
+  - Python to read csv files and machine learning
+  - Javascript/D3 for graph
+  - Possibly Tableau for visualization
+  
 Data Shortcomings:
